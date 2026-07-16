@@ -1,0 +1,29 @@
+tsconfig.app.tsbuildinfo
+  s_196ebfb9336418::t_38681130af80f7 1
+src/App.tsx
+  h_e05c901b5a18cc 6
+  s_196ebfb9336418::t_564783ea67c2c6 1-2,5,7-11
+src/vite-env.d.ts
+  s_196ebfb9336418::t_3659b46becaf80 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "a50aa5a952fdf56dd4ece4e2e5412b5fdfda7e81",
+  "prompts": {},
+  "humans": {
+    "h_e05c901b5a18cc": {
+      "author": "Sarah Ransohoff <sarah.ransohoff@clay.run>"
+    }
+  },
+  "sessions": {
+    "s_196ebfb9336418": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a59ce582-c217-4856-bf53-a92016d88fc4",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sarah Ransohoff <sarah.ransohoff@clay.run>"
+    }
+  }
+}

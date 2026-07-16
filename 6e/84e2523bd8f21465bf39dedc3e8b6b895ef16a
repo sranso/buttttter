@@ -1,0 +1,49 @@
+src/index.css
+  s_196ebfb9336418::t_ecad7be590cf1b 1-5
+index.html
+  s_196ebfb9336418::t_0b935d43d4695b 1-13
+tsconfig.node.json
+  s_196ebfb9336418::t_3a5eb0cb36bd58 1-20
+src/App.tsx
+  s_196ebfb9336418::t_cc3aadd421a582 1-7
+netlify.toml
+  s_196ebfb9336418::t_ea194e0885c819 1,3,7-11
+  s_196ebfb9336418::t_5bbb0f569a40d5 2,4-6
+.gitignore
+  s_196ebfb9336418::t_d9da99442fd8b1 1-5
+tsconfig.app.tsbuildinfo
+  s_196ebfb9336418::t_0d1220c715e9d3 1
+tsconfig.node.tsbuildinfo
+  s_196ebfb9336418::t_0d1220c715e9d3 1
+src/main.tsx
+  s_196ebfb9336418::t_5261949551281c 1-10
+package.json
+  s_196ebfb9336418::t_7882a976f9abee 6
+  s_196ebfb9336418::t_fba8e80a1904fa 1-5,7-25
+tsconfig.app.json
+  s_196ebfb9336418::t_05d5fecd4246d2 1-22
+vite.config.ts
+  s_196ebfb9336418::t_8821cd4f5a21bf 1-7
+.nvmrc
+  s_196ebfb9336418::t_9ae844f559a057 1
+tsconfig.json
+  s_196ebfb9336418::t_d46edf36e6649f 1-7
+pnpm-lock.yaml
+  s_196ebfb9336418::t_ccd2c542fe0b09 1-1469
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "6e84e2523bd8f21465bf39dedc3e8b6b895ef16a",
+  "prompts": {},
+  "sessions": {
+    "s_196ebfb9336418": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a59ce582-c217-4856-bf53-a92016d88fc4",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sarah Ransohoff <sarah.ransohoff@clay.run>"
+    }
+  }
+}
